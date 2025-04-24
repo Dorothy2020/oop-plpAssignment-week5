@@ -17,7 +17,7 @@ class Boat(Vehicle):
     def move(self):
         print("Sailing")
 
-def test_vehicles():
+    def test_vehicles():
     # Create instances of different vehicles
     car = Car()
     plane = Plane()
